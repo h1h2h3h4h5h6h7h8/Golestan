@@ -1,0 +1,14 @@
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\bin\Debug\net8.0\ConsoleApp119.exe
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\bin\Debug\net8.0\ConsoleApp119.deps.json
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\bin\Debug\net8.0\ConsoleApp119.runtimeconfig.json
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\bin\Debug\net8.0\ConsoleApp119.dll
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\bin\Debug\net8.0\ConsoleApp119.pdb
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.AssemblyInfoInputs.cache
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.AssemblyInfo.cs
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.csproj.CoreCompileInputs.cache
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.dll
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\refint\ConsoleApp119.dll
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.pdb
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ConsoleApp119.genruntimeconfig.cache
+C:\Users\Dr\source\repos\ConsoleApp119\ConsoleApp119\obj\Debug\net8.0\ref\ConsoleApp119.dll

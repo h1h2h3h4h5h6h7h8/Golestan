@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\enum\\studentstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\enum\\studentstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\enum\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\enum\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\database\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\database\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\database\\inmemorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\repository\\userrepositoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\repository\\userrepositoryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\contract\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\contract\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\contract\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\contract\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|c:\\users\\dr\\source\\repos\\consoleapp119\\consoleapp119\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F36E68-2CA9-4A6D-A6A6-DA6961FB62B0}|ConsoleApp119\\ConsoleApp119.csproj|solutionrelative:consoleapp119\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Services\\UserServices.cs",
+              "RelativeToolTip": "ConsoleApp119\\Services\\UserServices.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:05:02.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepositoryFile.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\UserRepositoryFile.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Repository\\UserRepositoryFile.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\UserRepositoryFile.cs",
+              "RelativeToolTip": "ConsoleApp119\\Repository\\UserRepositoryFile.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:04:46.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ConsoleApp119\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:04:42.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Repository\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "ConsoleApp119\\Repository\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:04:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Enum\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Enum\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Enum\\RoleEnum.cs",
+              "RelativeToolTip": "ConsoleApp119\\Enum\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:04:23.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenderEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Enum\\GenderEnum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Enum\\GenderEnum.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Enum\\GenderEnum.cs",
+              "RelativeToolTip": "ConsoleApp119\\Enum\\GenderEnum.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:04:19.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\DataBase\\SeedData.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\DataBase\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\DataBase\\SeedData.cs",
+              "RelativeToolTip": "ConsoleApp119\\DataBase\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:03:21.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Contract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "ConsoleApp119\\Contract\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:03:08.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Contract\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Contract\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Contract\\ITeacherRepository.cs",
+              "RelativeToolTip": "ConsoleApp119\\Contract\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:03:05.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Contract\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Contract\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Contract\\ICourseRepository.cs",
+              "RelativeToolTip": "ConsoleApp119\\Contract\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:03:00.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Result.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Result.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Result.cs",
+              "RelativeToolTip": "ConsoleApp119\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:02:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Enum\\StudentStatusEnum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Enum\\StudentStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Enum\\StudentStatusEnum.cs",
+              "RelativeToolTip": "ConsoleApp119\\Enum\\StudentStatusEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:23:26.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "ConsoleApp119\\Repository\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:57:11.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Services\\CourseService.cs",
+              "RelativeToolTip": "ConsoleApp119\\Services\\CourseService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:05:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Student.cs",
+              "RelativeToolTip": "ConsoleApp119\\Entities\\Student.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAH0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:00:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\User.cs",
+              "RelativeToolTip": "ConsoleApp119\\Entities\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:49:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Entities\\Operator.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Operator.cs",
+              "RelativeToolTip": "ConsoleApp119\\Entities\\Operator.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:48:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Program.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Program.cs",
+              "RelativeToolTip": "ConsoleApp119\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAQwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:39:21.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Teacher.cs",
+              "RelativeToolTip": "ConsoleApp119\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:36:38.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InMemoryDB.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\DataBase\\InMemoryDB.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\DataBase\\InMemoryDB.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\DataBase\\InMemoryDB.cs",
+              "RelativeToolTip": "ConsoleApp119\\DataBase\\InMemoryDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:33:25.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "ConsoleApp119\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Dr\\source\\repos\\ConsoleApp119\\ConsoleApp119\\Entities\\Course.cs",
+              "RelativeToolTip": "ConsoleApp119\\Entities\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:58:11.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
